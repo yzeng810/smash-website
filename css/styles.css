@@ -4,19 +4,7 @@
 	width: 90%;
 	max-width: 960px;
 
-	display: grid;
-	grid-template-columns: 1fr 1fr 1fr;
-	grid-column-gap: 15px;
-
 	font-family: 'Source Sans Pro', sans-serif;
-}
-
-header {
-	grid-column: 1/4;
-}
-
-nav {
-	grid-column: 1/4;
 }
 
 nav ul {

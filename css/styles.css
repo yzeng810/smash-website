@@ -13,13 +13,19 @@ nav ul {
 
 nav li {
 	font-family: 'Source Sans Pro', sans-serif;
-}
-
-
-nav li {
 	list-style-type: none;
+	font-weight: bold;
+	padding: 5px;
 }
 
 h2 {
 	grid-column: 1/4;
+}
+
+ul {
+	margin-bottom: 0px;
+}
+
+p {
+	line-height: 1.9em;
 }

@@ -4,7 +4,7 @@
 
 ## Roles
 
-Information architect: [Xiabo Ding](https://github.com/xding12)
+Information architect: [Xiabo (Sharon) Ding](https://github.com/xding12)
 
 Designer: [Maisha Idris](https://github.com/maishaidris)
 

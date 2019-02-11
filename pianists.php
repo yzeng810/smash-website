@@ -2,9 +2,11 @@
 <?php include "inc/top.php"; ?>
 
 		<h2>Pianists</h2>
-		<p class="summary-left">Who are the greatest pianists who've ever lived? That's the question we put to the Classic FM presenters and – after much heated debate – these are my most favorite artists. Mozart could be considered the first "concert pianist" as he performed widely on the piano. Composers Beethoven and Clementi from the classical era were also famed for their playing, as were, from the romantic era, Liszt, Brahms, Chopin, Mendelssohn and Rachmaninoff. From that era, leading performers less known as composers were Clara Schumann and Hans von Bülow. However, as we do not have modern audio recordings of most of these pianists, we rely mainly on written commentary to give us an account of their technique and style.</p>	
+		<section class="summary-left">
+			<p>Who are the greatest pianists who've ever lived? That's the question we put to the Classic FM presenters and – after much heated debate – these are my most favorite artists. Mozart could be considered the first "concert pianist" as he performed widely on the piano. Composers Beethoven and Clementi from the classical era were also famed for their playing, as were, from the romantic era, Liszt, Brahms, Chopin, Mendelssohn and Rachmaninoff. From that era, leading performers less known as composers were Clara Schumann and Hans von Bülow. However, as we do not have modern audio recordings of most of these pianists, we rely mainly on written commentary to give us an account of their technique and style.</p>	
+		</section>
 
-<section class="summary-right">
+<aside class="summary-right">
 	<h3>Classes and relationships</h3>
 	<ul>
 		<li>Each of them has name</li>
@@ -14,7 +16,7 @@
 		<li>Each of them has list of compositions</li>
 		<li>The order is done according to the year of birth</li>
 	</ul>
-</section>
+</aside>
 
 
 <section>

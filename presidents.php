@@ -2,11 +2,13 @@
 <?php include "inc/top.php"; ?>
 
 	 <h2>2020 Democratic Presidential Candidates</h2>
-	 <p class="summary-left"> A lot of candidates have decided to run for president of the United States in the upcoming 2020 elections.  The focus here is on three notable U.S. senators (Elizabeth Warren, Kirsten Gillibrand, and Kamala Harris) who have decided to run and recently announced their candidacy and/or intention to run.  All three women are older than 50 years old, are U.S. senators from relatively large and well-known states (Massachusetts, New York, and California), and are heavily experienced with public service, ordered by date of candidacy announcement.  The domain is 2020 Presidential Candidates.
-	</p>
+	 <section class="summary-left">
+	 	<p> A lot of candidates have decided to run for president of the United States in the upcoming 2020 elections.  The focus here is on three notable U.S. senators (Elizabeth Warren, Kirsten Gillibrand, and Kamala Harris) who have decided to run and recently announced their candidacy and/or intention to run.  All three women are older than 50 years old, are U.S. senators from relatively large and well-known states (Massachusetts, New York, and California), and are heavily experienced with public service, ordered by date of candidacy announcement.  The domain is 2020 Presidential Candidates.
+		</p>
+	</section>
 
 
-<section class="summary-right">
+<aside class="summary-right">
 <h3>Classes & Relationships</h3>
 <ul>
 <li>Each candidate has a name.</li>
@@ -16,7 +18,7 @@
 <li>Each candidate has a brief summary of their public service so far.</li>
 <li>Each candidate has a brief summary of their early lives.</li>
 </ul>
-</section>
+</aside>
 
 
 <section>

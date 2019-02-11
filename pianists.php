@@ -1,10 +1,5 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-	<meta charset="utf-8">
-	<title>Pianists</title>
-	<link rel="stylesheet" href="css/styles.css">
-</head>
+<?php $title = 'Pianists'; ?> 
+<? php include "inc/top.php"; ?>
 
 <body class="container">
 	<header>
@@ -16,11 +11,9 @@
 	<article>
 		<h2>Pianists</h2>
 		<p class="summary-left">Who are the greatest pianists who've ever lived? That's the question we put to the Classic FM presenters and – after much heated debate – these are my most favorite artists. Mozart could be considered the first "concert pianist" as he performed widely on the piano. Composers Beethoven and Clementi from the classical era were also famed for their playing, as were, from the romantic era, Liszt, Brahms, Chopin, Mendelssohn and Rachmaninoff. From that era, leading performers less known as composers were Clara Schumann and Hans von Bülow. However, as we do not have modern audio recordings of most of these pianists, we rely mainly on written commentary to give us an account of their technique and style.</p>
-		<ul>
-			<li>Xiabo Ding</li>
-			<li>In-class Lab 3: Markdown and Information Architecture</li>
-			<li>02/06/2019</li>
-		</ul>
+		
+		<? php includes 'inc/sharon.php'; ?>
+
 	</article>
 
 
@@ -92,13 +85,7 @@
 </ul>
 </section>
 
-<nav>
-	<ul>
-		<li><a href="index.html">Home</a></li>
-		<li><a href="presidents.html">Candidates</a></li>
-		<li><a href="pianists.html">Pianists</a></li>
-		<li><a href="religious.html">Religious</a></li>
-	</ul>
-</nav>
+<?php include "inc/nav.php"; ?>
+
 </body>
 </html>

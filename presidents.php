@@ -1,10 +1,5 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-	<meta charset="utf-8">
-	<title>Presidents</title>
-	<link rel="stylesheet" href="css/styles.css">
-</head>
+<?php $title = 'Presidents'; ?> 
+<? php include "inc/top.php"; ?>
 
 <body class="container">
 	<header>
@@ -16,11 +11,9 @@
 	 <h2>2020 Democratic Presidential Candidates</h2>
 	 <p class="summary-left"> A lot of candidates have decided to run for president of the United States in the upcoming 2020 elections.  The focus here is on three notable U.S. senators (Elizabeth Warren, Kirsten Gillibrand, and Kamala Harris) who have decided to run and recently announced their candidacy and/or intention to run.  All three women are older than 50 years old, are U.S. senators from relatively large and well-known states (Massachusetts, New York, and California), and are heavily experienced with public service, ordered by date of candidacy announcement.  The domain is 2020 Presidential Candidates.
 </p>
-<ul>
-	<li>Maisha Idris</li>
-	<li>In-class Lab 3</li>
-	<li>02/06/2019</li>
-</ul>
+
+<? php includes 'inc/maisha.php'; ?>
+
 </article>
 
 
@@ -77,14 +70,8 @@ On January 15, 2019, Gillibrand announced an exploratory committee for her poten
 <p>Kamala Harris was born on October 20, 1964, in Oakland, California, to a Tamil Indian mother and a Jamaican father. Her mother, Shyamala Gopalan Harris, was a breast cancer scientist who immigrated to the United States from Madras (now Chennai) in 1960.  Her father, Donald Harris, is a Stanford University economics professor who emigrated from Jamaica in 1961 for graduate study in economics at University of California, Berkeley.</p>
 </section>
 
-<nav>
-	<ul>
-		<li><a href="index.html">Home</a></li>
-		<li><a href="presidents.html">Candidates</a></li>
-		<li><a href="pianists.html">Pianists</a></li>
-		<li><a href="religious.html">Religious</a></li>
-	</ul>
-</nav>
+<?php include "inc/nav.php"; ?>
+
 </body>
 </html>
 

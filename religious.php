@@ -1,10 +1,5 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-	<meta charset="utf-8">
-	<title>Important Religious Figures</title>
-	<link rel="stylesheet" href="css/styles.css">
-</head>
+<?php $title = 'Religious'; ?> 
+<? php include "inc/top.php"; ?>
 
 <body class="container">
 	<header>
@@ -16,11 +11,9 @@
 	<article>
 		<h2>Famous Religious Figures</h2>
 		<p class="summary-left">Religion and spirituality are two things that are probably the most difficult to define in definite terms. It would be wrong to say that spirituality and religion don’t go hand in hand because they do; the only difference is that while religion is an organized system that pays homage to a god, spirituality is something that does not always need a deity to define the parameters of the person’s spiritual conduct. Throughout history there have been people who have played the roles of, both, spiritual and religious leaders for their societies. Some of them have done such exemplary work, with such dedication, that their work, and in turn they themselves, were recognized the world over for their societies. Let's look for more information about these people and others.</p>
-		<ul>
- 			<li>Chadia Bedetse</li>
- 			<li>In-Class Lab 3: Markdown and Information Architecture</li>
- 			<li>February 6th, 2019</li>
-		</ul>
+		
+<? php includes 'inc/chadia.php'; ?>
+
 	</article>
 
 
@@ -71,14 +64,8 @@
 <p>According to Tilmann Vetter, the core of earliest Buddhism is the practice of dhyāna, as a workable alternative to painful ascetic practices.Bronkhorst agrees that Dhyāna was a Buddhist invention, whereas Norman notes that "the Buddha's way to release [...] was by means of meditative practices. Discriminating insight into transiency as a separate path to liberation was a later development. According to the Mahāsaccakasutta,[note 21] from the fourth jhana the Buddha gained bodhi. Yet, it is not clear what he was awakened to. According to Schmithausen and Bronkhorst, "liberating insight" is a later addition to this text, and reflects a later development and understanding in early Buddhism. The mentioning of the four truths as constituting "liberating insight" introduces a logical problem, since the four truths depict a linear path of practice, the knowledge of which is in itself not depicted as being liberating.</p>
 </section>
 
-<nav>
-	<ul>
-		<li><a href="index.html">Home</a></li>
-		<li><a href="presidents.html">Candidates</a></li>
-		<li><a href="pianists.html">Pianists</a></li>
-		<li><a href="religious.html">Religious</a></li>
-	</ul>
-</nav>
+<?php include "inc/nav.php"; ?>
+
 </body>
 </html>
 

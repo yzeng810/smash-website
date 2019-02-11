@@ -1,12 +1,10 @@
-<?php $title = 'Religious'; ?> 
+<?php $title = 'Religious Figures'; ?> 
 <?php include "inc/top.php"; ?>
 
 
 	<article>
 		<h2>Famous Religious Figures</h2>
 		<p class="summary-left">Religion and spirituality are two things that are probably the most difficult to define in definite terms. It would be wrong to say that spirituality and religion don’t go hand in hand because they do; the only difference is that while religion is an organized system that pays homage to a god, spirituality is something that does not always need a deity to define the parameters of the person’s spiritual conduct. Throughout history there have been people who have played the roles of, both, spiritual and religious leaders for their societies. Some of them have done such exemplary work, with such dedication, that their work, and in turn they themselves, were recognized the world over for their societies. Let's look for more information about these people and others.</p>
-
-<?php include "inc/chadia.php" ; ?>
 
 	</article>
 
@@ -59,7 +57,3 @@
 </section>
 
 <?php include "inc/nav.php"; ?>
-
-</body>
-</html>
-

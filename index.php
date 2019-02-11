@@ -1,17 +1,5 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-	<meta charset="utf-8">
-	<title>Influential People</title>
-	<link rel="stylesheet" href="css/styles.css">
-</head>
-
-<body class="container">
-	<header>
-		<a href="index.html">
-			<h1>Influential People</h1>
-		</a>
-	</header>
+<?php $title = 'Influential People'; ?>
+<?php include "inc/top.php"; ?>	
 
 	<section>
 		<h2>
@@ -60,15 +48,5 @@
 			<li>Buddha</li>
 		</ul>
 	</section>
-
-<nav>
-	<ul>
-		<li><a href="index.html">Home</a></li>
-		<li><a href="presidents.html">Candidates</a></li>
-		<li><a href="pianists.html">Pianists</a></li>
-		<li><a href="religious.html">Religious</a></li>
-	</ul>
-</nav>
-
-</body>
-</html>
+	
+<?php include "inc/nav.php"; ?>

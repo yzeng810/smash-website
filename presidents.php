@@ -29,7 +29,7 @@ Unable to surmount Republican opposition to become the Director of the CFPB, War
 
 <h4>Early Life</h4>
 
-<p>Warren was born Elizabeth Ann Herring in Oklahoma City on June 22, 1949, the fourth child of middle-class parents Pauline (née Reed, 1912–1995) and Donald Jones Herring (1911–1997). Warren has described her family as teetering "on the ragged edge of the middle class" and "kind of hanging on at the edges by our fingernails".She had three older brothers and was raised as a Methodist.</p>
+<p>Warren was born Elizabeth Ann Herring in Oklahoma City on June 22, 1949, the fourth child of middle-class parents Pauline (née Reed, 1912–1995) and Donald Jones Herring (1911–1997). Warren has described her family as teetering "on the ragged edge of the middle class" and "kind of hanging on at the edges by our fingernails".</p>
 </section>
 
 <section>
@@ -52,7 +52,7 @@ On January 15, 2019, Gillibrand announced an exploratory committee for her poten
 
 <h4>Summary </h4>
 
-<p>Kamala Devi Harris is an American attorney, politician, and member of the Democratic Party. She has been the junior United States Senator for California since 2017, and she previously served as the 32nd Attorney General of California from 2011 to 2017, and as District attorney of San Francisco from 2004 to 2011. On January 21, 2019, she officially announced her campaign to run for the Democratic nomination for President of the United States in the 2020 United States presidential election.  Harris was born in Oakland, California, and is a graduate of Howard University and University of California, Hastings College of the Law. In the 1990s, she worked in the San Francisco District Attorney's Office and the City Attorney of San Francisco's office. In 2004, she was elected District attorney of San Francisco.</p>
+<p>Kamala Devi Harris is an American attorney, politician, and member of the Democratic Party. She has been the junior United States Senator for California since 2017, and she previously served as the 32nd Attorney General of California from 2011 to 2017, and as District attorney of San Francisco from 2004 to 2011. On January 21, 2019, she officially announced her campaign to run for the Democratic nomination for President of the United States in the 2020 United States presidential election.  Harris was born in Oakland, California, and is a graduate of Howard University and University of California, Hastings College of the Law.</p>
 
 <h4>Early Life</h4>
 

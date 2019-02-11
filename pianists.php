@@ -45,8 +45,6 @@
 		<li>No. 4, in E minor</li>
 		<li>No. 5, in G major</li>
 		<li>No. 6, in F minor</li>
-		<li>No. 7, in F major</li>
-		<li>No. 8, in A minor</li>
 	</ul>
 </section>
 
@@ -64,9 +62,6 @@
 <li>Rondo in D major, piano</li>
 <li>Suite for Twelfth Night, for piano (1949; MS lost):</li>
 <li>Nocturne</li>
-<li>Whimsical Nonsense</li>
-<li>Elizabethan Gaiety</li>
-<li>Regal Atmosphere</li>
 </ul>
 </section>
 

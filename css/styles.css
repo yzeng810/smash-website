@@ -86,3 +86,8 @@ p {
 	line-height: 1.9em;
 	text-align: justify;
 }
+
+.is-current {
+	background-color: black;
+	color: white;
+}

@@ -67,6 +67,7 @@
     (subtitle)
 
     - Elizabeth Warren
+    
     ​       #Photo
     
     ​       #Life Stories
@@ -74,6 +75,7 @@
     ​       #Contributions
 
     - Kirsten Gillibrand
+   
     ​       #Photo
     
     ​       #Life Stories
@@ -81,6 +83,7 @@
     ​       #Contributions
 
     - Kamala Harris
+    
     ​       #Photo
     
     ​       #Life Stories
@@ -96,6 +99,7 @@
     (subtitle)
 
     - Frederic Chopin
+    
     ​       #Photo
 
     ​       #Life Stories
@@ -103,6 +107,7 @@
     ​       #Contributions
 
     - Sergei Rachmaninov
+    
     ​       #Photo
     
     ​       #Life Stories
@@ -110,6 +115,7 @@
     ​       #Contributions
 
     - Glenn Gould
+    
     ​       #Photo
     
     ​       #Life Stories
@@ -125,6 +131,7 @@
     (subtitle)
 
     - Jesus
+    
     ​       #Photo
     
     ​       #Life Stories
@@ -132,6 +139,7 @@
     ​       #Contributions
 
     - Mohammed
+    
     ​       #Photo
     
     ​       #Life Stories
@@ -139,6 +147,7 @@
     ​       #Contributions
 
     - Buddha
+   
     ​       #Photo
     
     ​       #Life Stories

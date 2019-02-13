@@ -13,7 +13,7 @@
     - Overall, each person is classified into one of the three groups: influential politians, influential pianists, or influential religious figures.
     - Each person has life stories
     - Each person has contributions
-    - Each person's name is listed under the group it belongs to (at the index page)
+    - Each person has a name and a photo that are demonstrated under the group it belongs to (at the index page)
   - Look at each group (influential politians, influential pianists, and influential religious figures)
     - Each group has a group title
     - Each group has a subtitle that briefly describes the group
@@ -40,21 +40,21 @@
     (subtitle)
 
     - Preface
-    - Names of Candidates
+    - Names of Candidates + photo 
 
   - Influential Pianists
 
     (subtitle)
 
     - Preface
-    - Names of Pianists
+    - Names of Pianists + photo
 
   - Influential Religious Figures
 
     (subtitle)
 
     - Preface
-    - Names of Famous Religious Figures
+    - Names of Famous Religious Figures + photo
 
 <!--Structure of each webpages:--> 
 
@@ -66,22 +66,23 @@
 
     (subtitle)
 
-    - Introduction
-
     - Elizabeth Warren
-
+    ​       #Photo
+    
     ​       #Life Stories
 
     ​       #Contributions
 
     - Kirsten Gillibrand
-
+    ​       #Photo
+    
     ​       #Life Stories
 
     ​       #Contributions
 
     - Kamala Harris
-
+    ​       #Photo
+    
     ​       #Life Stories
 
     ​       #Contributions
@@ -94,22 +95,23 @@
 
     (subtitle)
 
-    - Introduction
-
     - Frederic Chopin
+    ​       #Photo
 
     ​       #Life Stories
 
     ​       #Contributions
 
     - Sergei Rachmaninov
-
+    ​       #Photo
+    
     ​       #Life Stories
 
     ​       #Contributions
 
     - Glenn Gould
-
+    ​       #Photo
+    
     ​       #Life Stories
 
     ​       #Contributions
@@ -122,22 +124,23 @@
 
     (subtitle)
 
-    - Introduction
-
     - Jesus
-
+    ​       #Photo
+    
     ​       #Life Stories
 
     ​       #Contributions
 
     - Mohammed
-
+    ​       #Photo
+    
     ​       #Life Stories
 
     ​       #Contributions
 
     - Buddha
-
+    ​       #Photo
+    
     ​       #Life Stories
 
     ​       #Contributions

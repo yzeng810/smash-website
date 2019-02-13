@@ -29,8 +29,17 @@
 3. Influential Pianists
 4. Influential Religious Figures
 
-## ##Taxonomy
+Rationale for this order: from the youngest group of people to the oldest.
 
+## ##Taxonomy
+<!-- Example of Titles-->
+- Preface
+- Names and photos of candidates/pianists/religious figures
+- Photo
+- Life stories
+- Contributions
+
+<!--More detailed version for each page:-->
 <!--Structure of the index page:-->
 
 - Influential People

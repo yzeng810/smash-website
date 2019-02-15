@@ -1,47 +1,23 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-	<meta charset="utf-8">
-	<title>Influential Pianists | Influential People</title>
-	<!--<link rel="stylesheet" href="css/styles.css">-->
-</head>
+<?php $title = 'Influential People'; ?>
+<?php $style = 'css/styles.css'; ?>
+<?php $top = 'css/top.css'; ?>
+<?php include "inc/top.php"; ?>	
 
-<body class="container">
-	
-    <header>
-		<a href="index.html">
-			<h1>Influential People</h1>
-		</a>
-	</header>
-
-	<header>
-	    <h2>Influential Pianists</h2>
-	    <div>Contributers for Classical Music</div>
-	</header>
-
-    <nav>
-	<ul>
-		<li><a href="index.html">Home</a></li>
-		<li><a href="politians.html">Politians</a></li>
-		<li><a href="pianists.html">Pianists</a></li>
-		<li><a href="religious-figures.html">Religious Figures</a></li>
-	</ul>
-    </nav>
+<?php include "inc/nav.php";?>
 
     <main>
     	<section>
-        <h3>Frédéric Chopin (1810-1849)</h3>
-		<h4>Photo</h4>
+        <h2><a name="fc">Frédéric Chopin (1810-1849)</a></h2>
 		<figure>
 		<img><src="xxx.jpg"
 		     alt="a picture about Frédéric Chopin">
 	        <figcaption>Frédéric Chopin</figcaption>
 		</figure>
 		
-        	<h4>Life Stories</h4>
+        	<h3>Life Stories</h3>
 		<p>Frederic is a Polish. Fryderyk Chopin was born in Żelazowa Wola,46 kilometres (29 miles) west of Warsaw, in what was then the Duchy of Warsaw, a Polish state established by Napoleon. The parish baptismal record gives his birthday as 22 February 1810. However, the composer and his family used the birthdate 1 March, which is now generally accepted as the correct date.</p>
 
-		    <h4>Contributions</h4>
+		    <h3>Contributions</h3>
 		    <ul>
 				<li>Op. 23: Ballade No. 1 in G minor (composed 1835–36)</li>
 				<li>Op. 38: Ballade No. 2 in F major (1836–39)</li>
@@ -51,18 +27,17 @@
 		</section>
         
         <section>
-        <h3>Sergei Rachmaninov (1873-1943)</h3>
-		<h4>Photo</h4>
+        <h2><a name="sr">Sergei Rachmaninov (1873-1943)</a></h2>
 		<figure>
 		<img><src="xxx.jpg"
 		     alt="a picture about Sergei Rachmaninov">
 	        <figcaption>Sergei Rachmaninov</figcaption>
 		</figure>
 			
-        	<h4>Life Stories</h4>
+        	<h3>Life Stories</h3>
         	<p>Sergei is a Russian. He was born into a family of the Russian aristocracy in Russian Empire. In their first known genealogy, compiled in the 1680s by Perfiliy Rakhmaninov, the family derives its own origin from the Moldovan rulers Dragoshi, who ruled Moldavia and Wallachia from 1350 to 1552[4] descending from Vasile, nicknamed Rachmaninov ("Rachmanin" in Old Russian, meaning lazy).</p>
 
-        	<h4>Contributions</h4>
+        	<h3>Contributions</h3>
         	<ul>
 				<li>No. 1, in C major</li>
 				<li>No. 2, in B-flat minor</li>
@@ -74,17 +49,16 @@
         </section>
 
         <section>
-        <h3>Glenn Gould (1932-1982)</h3>
-		<h4>Photo</h4>
+        <h2><a name="gg">Glenn Gould (1932-1982)</a></h2>
 		<figure>
 		<img><src="xxx.jpg"
 		     alt="a picture about Glenn Gould">
 	        <figcaption>Glenn Gould</figcaption>
 		</figure>	
-        	<h4>Life Stories</h4>
+        	<h3>Life Stories</h3>
         	<p>Glenn is a Canadian. Glenn Herbert Gould was born at home in Toronto on 25 September 1932, to Russell Herbert Gold (1901–1996) and Florence Emma Gold (née Greig; 1891–1975), Presbyterians of Scottish and English ancestry. His maternal grandfather was a cousin of Norwegian composer Edvard Grieg (who was himself of Scottish ancestry). The family's surname was changed to Gould informally around 1939 in order to avoid being mistaken for Jewish, given the prevailing anti-Semitism of prewar Toronto and the Gold surname's Jewish association.</p>
 
-       	 	<h4>Contributions</h4>
+       	 	<h3>Contributions</h3>
         	<ul>
 				<li>A Merry Thought</li>
 				<li>Our Gifts, for voice & piano</li>
@@ -96,8 +70,7 @@
     
     </main>
 
-	<script src="//code.jquery.com/jquery.js"></script>
-	<script src="js/menu-highlighter.js"></script>
+<?php include "inc/js.php"; ?>
 
 </body>
 </html>

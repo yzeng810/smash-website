@@ -1,0 +1,21 @@
+.photo{
+	display: grid;
+	grid-template-columns: 1fr 1fr 1fr;
+}
+
+.photo figure {
+	padding-left: 10px;
+}
+
+* {
+	/*border: hotpink solid 3px;*/
+	max-width: auto;
+}
+
+p {
+	font-family: 'Source Sans Pro', sans-serif;
+}
+
+.inline {
+	display: inline-block;
+}

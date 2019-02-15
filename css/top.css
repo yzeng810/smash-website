@@ -16,6 +16,10 @@ nav {
 	position: relative;
 }
 
+a {
+	color: black;
+}
+
 nav a {
 	text-decoration: none;
 }

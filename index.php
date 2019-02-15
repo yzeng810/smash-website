@@ -101,9 +101,5 @@
 $('.slider').sss();
 </script>
 
-<script>
-  AOS.init();
-</script>
-
 </body>
 </html>

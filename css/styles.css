@@ -1,0 +1,42 @@
+.intro {
+	display: grid;
+	grid-template-columns: 1fr 2fr;
+}
+
+h2 {
+	font-size: 62px;
+	letter-spacing: 2px;
+}
+
+.intro img {
+	margin-right: 20px;
+}
+
+h3 {
+	font-size: 36px;
+	margin-bottom: 5px;
+}
+
+p {
+	font-family: 'Source Sans Pro', sans-serif;
+	font-size: 20px;
+	margin-bottom: 20px;
+	line-height: 2;
+}
+
+.one {
+	margin-top: 25px;
+	padding-left: 80px;
+	padding-right: 80px;
+}
+
+.whole {
+	margin-bottom: 60px;
+}
+
+.one li {
+	font-family: 'Source Sans Pro', sans-serif;
+	font-size: 20px;
+	line-height: 2;
+
+}

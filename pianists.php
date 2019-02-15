@@ -6,16 +6,15 @@
 <?php include "inc/nav.php";?>
 
     <main>
-    	<section>
-        <h2><a name="fc">Frédéric Chopin (1810-1849)</a></h2>
-		<figure>
-		<img><src="xxx.jpg"
-		     alt="a picture about Frédéric Chopin">
-	        <figcaption>Frédéric Chopin</figcaption>
-		</figure>
-		
+
+    	<section class="whole">
+    	<div class="intro">
+        <h2><a name="fc">Frédéric <br> Chopin <br> 1810-1849</a></h2>
+		<img src="images/fc2.jpg" alt="a picture about Frédéric Chopin">
+		</div>
+		<section class="one">
         	<h3>Life Stories</h3>
-		<p>Frederic is a Polish. Fryderyk Chopin was born in Żelazowa Wola,46 kilometres (29 miles) west of Warsaw, in what was then the Duchy of Warsaw, a Polish state established by Napoleon. The parish baptismal record gives his birthday as 22 February 1810. However, the composer and his family used the birthdate 1 March, which is now generally accepted as the correct date.</p>
+			<p>Frederic is a Polish. Fryderyk Chopin was born in Żelazowa Wola,46 kilometres (29 miles) west of Warsaw, in what was then the Duchy of Warsaw, a Polish state established by Napoleon. The parish baptismal record gives his birthday as 22 February 1810. However, the composer and his family used the birthdate 1 March, which is now generally accepted as the correct date.</p>
 
 		    <h3>Contributions</h3>
 		    <ul>
@@ -25,15 +24,14 @@
 				<li>Op. 52: Ballade No. 4 in F minor (1842–43)</li>
 		    </ul>
 		</section>
+		</section>
         
-        <section>
-        <h2><a name="sr">Sergei Rachmaninov (1873-1943)</a></h2>
-		<figure>
-		<img><src="xxx.jpg"
-		     alt="a picture about Sergei Rachmaninov">
-	        <figcaption>Sergei Rachmaninov</figcaption>
-		</figure>
-			
+        <section class="whole" data-aos="zoom-in-right" data-aos-duration="2000" data-aos-delay="100" data-aos-easing="linear">
+       	<div class="intro">
+        <h2><a name="sr">Sergei <br> Rachmaninov <br> 1873-1943</a></h2>
+		<img src="images/sr2.jpg" alt="a picture about Sergei Rachmaninov">
+	    </div>
+		<section class="one">
         	<h3>Life Stories</h3>
         	<p>Sergei is a Russian. He was born into a family of the Russian aristocracy in Russian Empire. In their first known genealogy, compiled in the 1680s by Perfiliy Rakhmaninov, the family derives its own origin from the Moldovan rulers Dragoshi, who ruled Moldavia and Wallachia from 1350 to 1552[4] descending from Vasile, nicknamed Rachmaninov ("Rachmanin" in Old Russian, meaning lazy).</p>
 
@@ -47,14 +45,14 @@
 				<li>No. 6, in F minor</li>
 			</ul>
         </section>
+    	</section>
 
-        <section>
-        <h2><a name="gg">Glenn Gould (1932-1982)</a></h2>
-		<figure>
-		<img><src="xxx.jpg"
-		     alt="a picture about Glenn Gould">
-	        <figcaption>Glenn Gould</figcaption>
-		</figure>	
+        <section class="whole" data-aos="zoom-in-right" data-aos-duration="2000" data-aos-delay="100" data-aos-easing="linear">
+        <div class="intro">
+        <h2><a name="gg">Glenn <br> Gould <br> 1932-1982</a></h2>
+		<img src="images/gg2.jpg" alt="a picture about Glenn Gould">
+	    </div>
+		<section class="one">
         	<h3>Life Stories</h3>
         	<p>Glenn is a Canadian. Glenn Herbert Gould was born at home in Toronto on 25 September 1932, to Russell Herbert Gold (1901–1996) and Florence Emma Gold (née Greig; 1891–1975), Presbyterians of Scottish and English ancestry. His maternal grandfather was a cousin of Norwegian composer Edvard Grieg (who was himself of Scottish ancestry). The family's surname was changed to Gould informally around 1939 in order to avoid being mistaken for Jewish, given the prevailing anti-Semitism of prewar Toronto and the Gold surname's Jewish association.</p>
 
@@ -67,6 +65,7 @@
 				<li>Nocturne</li>
 			</ul>
         </section>
+    	</section>
     
     </main>
 

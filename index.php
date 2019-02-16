@@ -2,7 +2,6 @@
 <?php $style = 'css/home.css'; ?>
 <?php $top = 'css/top.css'; ?>
 <?php include "inc/top.php"; ?>	
-
 <?php include "inc/nav.php";?>
 
 <section class="container">
@@ -16,7 +15,7 @@
 			<img class="flexible" src="images/rf.jpg" alt="ReligiousFigure">
 	</div>
 
-	<main>
+	<div class="main">
 	<section class="excerpt">
 		<h2 class="inline">Influential Politicians</h2>
 		<div class="inline">2020 Democratic Presidential Candidates</div>
@@ -94,7 +93,7 @@
 			</a>
 		</section>
 	</section>
-	</main>
+	</div>
 </section>
 
 <?php include "inc/js.php"; ?>

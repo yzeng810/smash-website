@@ -3,8 +3,8 @@
   	
   		<li><a href="index.php">Home</a></li>
 				
-		<div class="dropdown">
-		<li>
+	
+		<li class="dropdown">
 			
      			<a href="religious-figures.php" class="button" role="button">Religious Figures</a>
      		
@@ -14,10 +14,9 @@
       			<a href="religious-figures.php#bud">Buddha</a>
    			</div> 
 		</li>
-		</div>
+		
 
-		<div class="dropdown">
-		<li>
+		<li class="dropdown">
 			<button class="dropbtn"> 
      			<a href="pianists.php">Pianists</a>
      		</button>
@@ -27,10 +26,10 @@
       			<a href="pianists.php#gg">Glenn Gould</a>
    			</div> 
 		</li>
-		</div>
+	
 
-		<div class="dropdown">
-		<li>
+		
+		<li class="dropdown">
 			<button class="dropbtn"> 
 				<a href="politians.php">Politicians</a>
    			</button>
@@ -40,7 +39,7 @@
       			<a href="politians.php#kh">Kamala Harris</a>
    			</div> 
 		</li>
-		</div>
+		
 
 	</ul>
 </nav>

@@ -7,12 +7,8 @@
 
 <section class="container">
 
-	<h2>Intro</h2>
-	<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-	tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-	quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-	consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-	cillum dolore eu fugiat nulla pariatur.</p>
+	<h2>Introduction</h2>
+	<p>Throughout history, a lot of people have made significant contributions to the prosperity of human beings in the domains of politics, music, and religion. When you think about this topic, there might be a lot of names come to your mind, and everyone would come up with their own lists of famous people that important to the world. Now we will introduce the life stories and contributions of some influential people to you.</p>
 
 	<div class="slider">
 			<img class="flexible" src="images/Politician.jpg" alt="Politician">

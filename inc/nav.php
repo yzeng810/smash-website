@@ -18,7 +18,7 @@
 
 		<li class="dropdown">
 			 
-     			<a href="pianists.php" lass="button" role="button">Pianists</a>
+     			<a href="pianists.php" class="button" role="button">Pianists</a>
      
      		<div class="dropdown-content">
     	  		<a href="pianists.php#fc">Frédéric Chopin</a>
@@ -31,7 +31,7 @@
 		
 		<li class="dropdown">
 		
-				<a href="politians.php" lass="button" role="button">Politicians</a>
+				<a href="politians.php" class="button" role="button">Politicians</a>
    		
    			<div class="dropdown-content">
     	  		<a href="politians.php#ewarren">Elizabeth Warren</a>

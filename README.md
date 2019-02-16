@@ -17,7 +17,7 @@
   - Look at each group (influential politians, influential pianists, and influential religious figures)
     - Each group has a group title
     - Each group has a subtitle that briefly describes the group
-    - Each group has a preface
+    - Each group has a paragraph that introduce them in general
     - Each group has a list of names
 
 ## ##Choreography
@@ -33,7 +33,6 @@ Rationale for this order: from the youngest group of people to the oldest.
 
 ## ##Taxonomy
 <!-- Example of Titles-->
-- Preface
 - Names and photos of candidates/pianists/religious figures
 - Photo
 - Life stories
@@ -44,25 +43,27 @@ Rationale for this order: from the youngest group of people to the oldest.
 
 - Influential People
 
+    * Introduction
+
   - Influential Politians
 
     (subtitle)
 
-    - Preface
+    - paragraph
     - Names of Candidates + photo 
 
   - Influential Pianists
 
     (subtitle)
 
-    - Preface
+    - paragraph
     - Names of Pianists + photo
 
   - Influential Religious Figures
 
     (subtitle)
 
-    - Preface
+    - paragraph
     - Names of Famous Religious Figures + photo
 
 <!--Structure of each webpages:--> 
@@ -72,8 +73,6 @@ Rationale for this order: from the youngest group of people to the oldest.
 - Influential People
 
   - Influential Politians
-
-    (subtitle)
 
     - Elizabeth Warren
     
@@ -105,8 +104,6 @@ Rationale for this order: from the youngest group of people to the oldest.
 
   - Influential Pianists
 
-    (subtitle)
-
     - Frederic Chopin
     
     ​       #Photo
@@ -136,8 +133,6 @@ Rationale for this order: from the youngest group of people to the oldest.
 - Influential People
 
   - Influential Religious Figures
-
-    (subtitle)
 
     - Jesus
     

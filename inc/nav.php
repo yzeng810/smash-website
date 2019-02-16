@@ -17,9 +17,9 @@
 		
 
 		<li class="dropdown">
-			<button class="dropbtn"> 
-     			<a href="pianists.php">Pianists</a>
-     		</button>
+			 
+     			<a href="pianists.php" lass="button" role="button">Pianists</a>
+     
      		<div class="dropdown-content">
     	  		<a href="pianists.php#fc">Frédéric Chopin</a>
      			<a href="pianists.php#sr">Sergei Rachmaninov</a>
@@ -30,9 +30,9 @@
 
 		
 		<li class="dropdown">
-			<button class="dropbtn"> 
-				<a href="politians.php">Politicians</a>
-   			</button>
+		
+				<a href="politians.php" lass="button" role="button">Politicians</a>
+   		
    			<div class="dropdown-content">
     	  		<a href="politians.php#ewarren">Elizabeth Warren</a>
      			<a href="politians.php#kg">Kirsten Gillibrand</a>

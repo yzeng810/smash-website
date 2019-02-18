@@ -40,6 +40,7 @@ Rationale for this order: from the youngest group of people to the oldest.
 
 <!--More detailed version for each page:-->
 <!--Structure of the index page:-->
+[index]
 
 - Influential People
 

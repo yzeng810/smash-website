@@ -10,11 +10,11 @@
 
 - Classes  & Relations 
   - Look at all the figures as a whole
-    - Overall, each person is classified into one of the three groups: influential politians, influential pianists, or influential religious figures.
+    - Overall, each person is classified into one of the three groups: influential politicians, influential pianists, or influential religious figures.
     - Each person has life stories
     - Each person has contributions
     - Each person has a name and a photo that are demonstrated under the group it belongs to (at the index page)
-  - Look at each group (influential politians, influential pianists, and influential religious figures)
+  - Look at each group (influential politicians, influential pianists, and influential religious figures)
     - Each group has a group title
     - Each group has a subtitle that briefly describes the group
     - Each group has a paragraph that introduce them in general
@@ -25,7 +25,7 @@
 <!--navigation-->
 
 1. Home
-2. Influential Politians
+2. Influential Politicians
 3. Influential Pianists
 4. Influential Religious Figures
 
@@ -33,10 +33,10 @@ Rationale for this order: from the youngest group of people to the oldest.
 
 ## ##Taxonomy
 <!-- Example of Titles-->
-- Names and photos of candidates/pianists/religious figures
-- Photo
+- (Photo)
 - Life stories
 - Contributions
+
 
 <!--More detailed version for each page:-->
 <!--Structure of the index page:-->
@@ -45,7 +45,7 @@ Rationale for this order: from the youngest group of people to the oldest.
 
     * Introduction
 
-  - Influential Politians
+  - Influential politicians
 
     (subtitle)
 
@@ -72,11 +72,11 @@ Rationale for this order: from the youngest group of people to the oldest.
 
 - Influential People
 
-  - Influential Politians
+  - Influential Politicians
 
     - Elizabeth Warren
     
-    ​       #Photo
+    ​       (Photo)
     
     ​       #Life Stories
 
@@ -84,7 +84,7 @@ Rationale for this order: from the youngest group of people to the oldest.
 
     - Kirsten Gillibrand
    
-    ​       #Photo
+    ​       (Photo)
     
     ​       #Life Stories
 
@@ -92,7 +92,7 @@ Rationale for this order: from the youngest group of people to the oldest.
 
     - Kamala Harris
     
-    ​       #Photo
+    ​       (Photo)
     
     ​       #Life Stories
 
@@ -106,7 +106,7 @@ Rationale for this order: from the youngest group of people to the oldest.
 
     - Frederic Chopin
     
-    ​       #Photo
+    ​       (Photo)
 
     ​       #Life Stories
 
@@ -114,7 +114,7 @@ Rationale for this order: from the youngest group of people to the oldest.
 
     - Sergei Rachmaninov
     
-    ​       #Photo
+    ​       (Photo)
     
     ​       #Life Stories
 
@@ -122,7 +122,7 @@ Rationale for this order: from the youngest group of people to the oldest.
 
     - Glenn Gould
     
-    ​       #Photo
+    ​       (Photo)
     
     ​       #Life Stories
 
@@ -136,7 +136,7 @@ Rationale for this order: from the youngest group of people to the oldest.
 
     - Jesus
     
-    ​       #Photo
+    ​       (Photo)
     
     ​       #Life Stories
 
@@ -144,7 +144,7 @@ Rationale for this order: from the youngest group of people to the oldest.
 
     - Mohammed
     
-    ​       #Photo
+    ​       (Photo)
     
     ​       #Life Stories
 
@@ -152,7 +152,7 @@ Rationale for this order: from the youngest group of people to the oldest.
 
     - Buddha
    
-    ​       #Photo
+    ​       (Photo)
     
     ​       #Life Stories
 

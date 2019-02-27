@@ -1,107 +1,57 @@
 <?php $title = 'Influential People'; ?>
-<?php $style = 'css/home.css'; ?>
+<?php $style = 'css/styles.css'; ?>
 <?php $top = 'css/top.css'; ?>
 <?php include "inc/top.php"; ?>	
+
 <?php include "inc/nav.php";?>
 
-<section class="container">
+    <main>
+    	
+    	<section class="whole">
+    	<div class="intro">
+        <h2><a name="ewarren">Elizabeth <br> Warren</a></h2>
+		<img src="images/ew6.jpg" alt="a picture about Elizabeth Warren">
+		</div>
+		<section class="one">
+        	<h3>Life Stories</h3>
+		    <p>Warren was born Elizabeth Ann Herring in Oklahoma City on June 22, 1949, the fourth child of middle-class parents Pauline (née Reed, 1912–1995) and Donald Jones Herring (1911–1997). Warren has described her family as teetering "on the ragged edge of the middle class" and "kind of hanging on at the edges by our fingernails".</p>
 
-	<h2>Introduction</h2>
-	<p>Throughout history, a lot of people have made significant contributions to the prosperity of human beings in the domains of politics, music, and religion. When you think about this topic, there might be a lot of names come to your mind, and everyone would come up with their own lists of famous people that important to the world. Now we will introduce the life stories and contributions of some influential people to you.</p>
-
-	<div class="slider">
-			<img class="flexible" src="images/Politician.jpg" alt="Politician">
-			<img class="flexible" src="images/pl.jpg" alt="Pianists">
-			<img class="flexible" src="images/rf.jpg" alt="ReligiousFigure">
-	</div>
-
-	<div class="main">
-	<section class="excerpt">
-		<h2 class="inline">Influential Politicians</h2>
-		<div class="inline">2020 Democratic Presidential Candidates</div>
-		<p>A lot of candidates have decided to run for president of the United States in the upcoming 2020 elections.  I wanted to focus on three notable U.S. senators (Elizabeth Warren, Kirsten Gillibrand, adn Kamala Harris), who have decided to run and recently announced their candidacy and/or intention to run.  All three women are older than 50 years old, are U.S. senators from relatively large and well-known states (Massachusetts, New York, and California), and are heavily experienced with public service.  The senators are ordered by date of candidacy announcement.  The domain is 2020 Presidential Candidates.</p>
-		<section class="photo">
-		<a href="politians.php#ewarren">
-		<figure data-aos="fade-up" data-aos-anchor-placement="bottom-bottom" data-aos-duration="2000" data-aos-delay="300" data-aos-easing="linear">
-			<img src="images/ewarren.jpg" alt="Elizabeth Warren">
-			<figcaption>Elizabeth Warren</figcaption>
-		</figure>
-		</a>
-		<a href="politians.php#kg">
-		<figure data-aos="fade-up" data-aos-anchor-placement="bottom-bottom" data-aos-duration="2000" data-aos-delay="300" data-aos-easing="linear">
-			<img src="images/kg.jpg" alt="Kirsten Gillibrand">
-			<figcaption>Kirsten Gillibrand</figcaption>
-		</figure>
-		</a>
-		<a href="politians.php#kh">
-		<figure data-aos="fade-up" data-aos-anchor-placement="bottom-bottom" data-aos-duration="2000" data-aos-delay="300" data-aos-easing="linear">
-			<img src="images/kharris.jpg" alt="Kamala Harris">
-			<figcaption>Kamala Harris</figcaption>
-		</figure>
-		</a>
+		    <h3>Contributions</h3>
+		    <p>Unable to surmount Republican opposition to become the Director of the CFPB, Warren instead challenged and defeated Republican incumbent Senator Scott Brown of Massachusetts in 2012. She was the keynote speaker of the 2016 Democratic National Convention and became Vice Chair of the Senate Democratic Caucus the following year. A noted progressive leader, Warren has focused on consumer protection, economic opportunity, and the social safety net while in the Senate. </p> 
 		</section>
-	</section>
-
-	<section class="excerpt">
-		<h2 class="inline">Influential Pianists</h2>
-		<div class="inline">Contributers for Classical Music</div>
-		<p>Who are the greatest pianists who've ever lived? That's the question we put to the Classic FM presenters and – after much heated debate – these are my most favorite artists. Mozart could be considered the first "concert pianist" as he performed widely on the piano. Composers Beethoven and Clementi from the classical era were also famed for their playing, as were, from the romantic era, Liszt, Brahms, Chopin, Mendelssohn and Rachmaninoff. From that era, leading performers less known as composers were Clara Schumann and Hans von Bülow. However, we do not have modern audio recordings of most of these pianists.</p>
-		<section class="photo">
-			<a href="pianists.php#fc">
-			<figure data-aos="fade-up" data-aos-anchor-placement="bottom-bottom" data-aos-duration="2000" data-aos-delay="300" data-aos-easing="linear">
-				<img src="images/fc1.jpg" alt="Frédéric Chopin">
-				<figcaption>Frédéric Chopin</figcaption>
-			</figure>
-			</a>
-			<a href="pianists.php#sr">
-			<figure data-aos="fade-up" data-aos-anchor-placement="bottom-bottom" data-aos-duration="2000" data-aos-delay="300" data-aos-easing="linear">
-				<img src="images/sr1.jpg" alt="Sergei Rachmaninov">
-				<figcaption>Sergei Rachmaninov</figcaption>
-			</figure>
-			</a>
-			<a href="pianists.php#gg">
-			<figure data-aos="fade-up" data-aos-anchor-placement="bottom-bottom" data-aos-duration="2000" data-aos-delay="300" data-aos-easing="linear">
-				<img src="images/gg.jpg" alt="Glenn Gould">
-				<figcaption>Glenn Gould</figcaption>
-			</figure>
-			</a>
 		</section>
-	</section>
+        
+        <section class="whole">
+        <div class="intro">
+        <h2><a name="kg">Kirsten <br> Gillibrand</a></h2>
+		<img src="images/kg2.jpg" alt="a picture about Kirsten Gillibrand">
+		</div>	
+		<section class="one">
+        	<h3>Life Stories</h3>
+        	<p>Kirsten Elizabeth Rutnik was born on December 9, 1966 in Albany, New York, the daughter of Polly Edwina (Noonan) and Douglas Paul Rutnik. Both her parents are attorneys, and her father has also worked as a lobbyist.  Her parents divorced in the late 1980s.  Gillibrand has an older brother, Douglas Rutnik, and a younger sister, Erin Rutnik Tschantret.</p>
 
-	<section class="excerpt">
-		<h2 class="inline">Religious Figures</h2>
-		<div class="inline">Leaders of the Three Famous Religions</div>
-		<p>Religion and spirituality are two things that are probably the most difficult to define in definite terms. It would be wrong to say that spirituality and religion don’t go hand in hand because they do; the only difference is that while religion is an organized system that pays homage to a god, spirituality is something that does not always need a deity to define the parameters of the person’s spiritual conduct. Throughout history there have been people who have played the roles of, both, spiritual and religious leaders for their societies. Some of them have done such exemplary work, with such dedication, that their work, and in turn they themselves, were recognized the world over for their societies. Let's look for more information about these people and others.  Their work is still beneficial and influential in modern society.</p>
-        <section class="photo">
-        	<a href="religious-figures.php#jesus">
-			<figure data-aos="fade-up" data-aos-anchor-placement="bottom-bottom" data-aos-duration="2000" data-aos-delay="300" data-aos-easing="linear">
-				<img src="images/jesus.jpg" alt="Jesus">
-				<figcaption>Jesus</figcaption>
-			</figure>
-			</a>
-			<a href="religious-figures.php#mo">
-			<figure data-aos="fade-up" data-aos-anchor-placement="bottom-bottom" data-aos-duration="2000" data-aos-delay="300" data-aos-easing="linear">
-				<img src="images/Mohammad.jpg" alt="Sergei Rachmaninov">
-				<figcaption>Mohammad</figcaption>
-			</figure>
-			</a>
-			<a href="religious-figures.php#bud">
-			<figure data-aos="fade-up" data-aos-anchor-placement="bottom-bottom" data-aos-duration="2000" data-aos-delay="300" data-aos-easing="linear">
-				<img src="images/budda.jpg" alt="Glenn Gould">
-				<figcaption>Buddha</figcaption>
-			</figure>
-			</a>
-		</section>
-	</section>
-	</div>
-</section>
+        	<h3>Contributions</h3>
+        	<p>Kirsten Elizabeth Gillibrand is an American attorney and politician serving as the junior United States Senator from New York since January 2009. She previously held the position of U.S. Representative for New York's 20th congressional district from 2007 until her Senate appointment. Gillibrand is a member of the Democratic Party.On January 15, 2019, Gillibrand announced an exploratory committee for her potential candidacy for President of the United States in 2020.</p>
+        </section>
+        </section>
+
+        <section class="whole">
+        <div class="intro">
+        <h2><a name="kh">Kamala <br> Harris</a></h2>
+		<img src="images/kharris2.jpg" alt="a picture about Kamala Harris">
+		</div>
+		<section class="one">
+        	<h3>Life Stories</h3>
+        	<p>Kamala Harris was born on October 20, 1964, in Oakland, California, to a Tamil Indian mother and a Jamaican father. Her mother, Shyamala Gopalan Harris, was a breast cancer scientist who immigrated to the United States from Madras (now Chennai) in 1960.  Her father, Donald Harris, is a Stanford University economics professor who emigrated from Jamaica in 1961 for graduate study in economics at University of California, Berkeley.</p>
+
+       	 	<h3>Contributions</h3>
+            <p>Kamala Devi Harris is an American attorney, politician, and member of the Democratic Party. She has been the junior United States Senator for California since 2017, and she previously served as the 32nd Attorney General of California from 2011 to 2017, and as District attorney of San Francisco from 2004 to 2011. On January 21, 2019, she officially announced her campaign to run for the Democratic nomination for President of the United States in the 2020 United States presidential election.  Harris was born in Oakland, California, and is a graduate of Howard University and University of California, Hastings College of the Law.</p>
+        </section>
+        </section>
+    
+    </main>
 
 <?php include "inc/js.php"; ?>
-
-<script src="sss/sss.js"></script>
-<script>
-$('.slider').sss();
-</script>
 
 </body>
 </html>

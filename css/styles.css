@@ -4,8 +4,9 @@
 }
 
 h2 {
-	font-size: 62px;
-	letter-spacing: 2px;
+	font-family: 'Abril Fatface', cursive;
+	font-size: 70px;
+	letter-spacing: 4px;
 }
 
 .intro img {
@@ -13,14 +14,16 @@ h2 {
 }
 
 h3 {
+	font-family: 'Abril Fatface', cursive;
 	font-size: 36px;
-	margin-bottom: 5px;
+	margin-bottom: 15px;
+	letter-spacing: 1px;
 }
 
 p {
-	font-family: 'Source Sans Pro', sans-serif;
+	font-family: 'Open Sans', sans-serif;
 	font-size: 20px;
-	margin-bottom: 20px;
+	margin-bottom: 45px;
 	line-height: 1.8;
 }
 
@@ -31,7 +34,7 @@ p {
 }
 
 .whole {
-	margin-bottom: 100px;
+	margin-bottom: 120px;
 }
 
 .one li {

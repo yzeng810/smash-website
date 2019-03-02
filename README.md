@@ -1,161 +1,30 @@
 # Influential People
 
-- CSC174 Assignment04: Information Architecture
-- City Group: Philadelphia 
-- Date: Feb 11, 2019
+- CSC174 In-class Lab 06: Typography and Readability 
+- Name: Yuqi Zeng
+- Date: Feb 28th 2019
 
-## ##Ontology
+## Typography
 
-- Domain: influential people
+I choose Abril Fatface and Open Sans because the following reasons 
 
-- Classes  & Relations 
-  - Look at all the figures as a whole
-    - Overall, each person is classified into one of the three groups: influential politicians, influential pianists, or influential religious figures.
-    - Each person has life stories
-    - Each person has contributions
-    - Each person has a name and a photo that are demonstrated under the group it belongs to (at the index page)
-  - Look at each group (influential politicians, influential pianists, and influential religious figures)
-    - Each group has a group title
-    - Each group has a subtitle that briefly describes the group
-    - Each group has a paragraph that introduce them in general
-    - Each group has a list of names
+1. They pair well 
 
-## ##Choreography
+2. Abril Fatface as a header creates strong contrast which is better at attracting Reader's attentions than the previous one 
 
-<!--navigation-->
+3. Abril Fatface was originally inspired by the heavy lifiting fonts used in advertising posters, and this really fits to presidential candidates' favors: advertisement of themselves to gain more votes 
 
-1. Home
-2. Influential Politicians
-3. Influential Pianists
-4. Influential Religious Figures
+4. Open Sans looks very friendly, and that's the message these politican want to bring to their voter in order to let the voters feel these politican can speak for them, and these voters are the target readers of this website as well. 
 
-Rationale for this order: from the youngest group of people to the oldest.
+## Readability
 
-## ##Taxonomy
-<!-- Example of Titles-->
-- (Photo)
-- Life stories
-- Contributions
+1. Removal of the AOS element 
+   - Because it really messes up the contents and creates readability problems
 
+2. Change of the h2 and h3 style
+   - To bring more contrasts to show emphasis
 
-<!--More detailed version for each page:-->
-<!--Structure of the index page:-->
-[index]
-
-- Influential People
-
-    * Introduction
-
-  - Influential politicians
-
-    (subtitle)
-
-    - paragraph
-    - Names of Candidates + photo 
-
-  - Influential Pianists
-
-    (subtitle)
-
-    - paragraph
-    - Names of Pianists + photo
-
-  - Influential Religious Figures
-
-    (subtitle)
-
-    - paragraph
-    - Names of Famous Religious Figures + photo
-
-<!--Structure of each webpages:--> 
-
-[Webpage1]
-
-- Influential People
-
-  - Influential Politicians
-
-    - Elizabeth Warren
-    
-    ​       (Photo)
-    
-    ​       #Life Stories
-
-    ​       #Contributions
-
-    - Kirsten Gillibrand
-   
-    ​       (Photo)
-    
-    ​       #Life Stories
-
-    ​       #Contributions
-
-    - Kamala Harris
-    
-    ​       (Photo)
-    
-    ​       #Life Stories
-
-    ​       #Contributions
-
-[Webpage2]
-
-- Influential People
-
-  - Influential Pianists
-
-    - Frederic Chopin
-    
-    ​       (Photo)
-
-    ​       #Life Stories
-
-    ​       #Contributions
-
-    - Sergei Rachmaninov
-    
-    ​       (Photo)
-    
-    ​       #Life Stories
-
-    ​       #Contributions
-
-    - Glenn Gould
-    
-    ​       (Photo)
-    
-    ​       #Life Stories
-
-    ​       #Contributions
-
-[Webpage3]
-
-- Influential People
-
-  - Influential Religious Figures
-
-    - Jesus
-    
-    ​       (Photo)
-    
-    ​       #Life Stories
-
-    ​       #Contributions
-
-    - Mohammed
-    
-    ​       (Photo)
-    
-    ​       #Life Stories
-
-    ​       #Contributions
-
-    - Buddha
-   
-    ​       (Photo)
-    
-    ​       #Life Stories
-
-    ​       #Contributions
-
+3. Change the distance between each politican session and each paragraph within 
+   - To improve proximidity so that items that has relationship will appear to be closer together
+4. Change of the font style 
+   - Instead of randomly using fontstyle to different elements in the previous one, except the header is Impact all other headings are Abril Fatface. All passage elements or the one that has no need for emphasis are all Open Sans.

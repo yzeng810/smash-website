@@ -5,8 +5,8 @@
 	<title> <?php echo($title); ?></title>
 	<link rel="stylesheet" href="<?php echo($style); ?>">
 	<link rel="stylesheet" href="<?php echo($top); ?>">
-	<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro" rel="stylesheet">
-	<link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=Abril+Fatface" rel="stylesheet">
 </head>
 
 <body>
